@@ -6,9 +6,9 @@ A modo de seguimiento, publicare mis avances en el estudio de Ciencias de la com
 
 ## Prerrequisitos
 
-* Matematica Basica: **EN PROCESO**
+* Matematica Basica: **TERMINADO**
   * Khan Academy [Curricula](https://www.khanacademy.org/math/high-school-math)
-    * Matematica I  **EN PROCESO**
+    * Matematica I  
     * Matematica II
     * Matematica III
     * Algebra I
@@ -21,8 +21,8 @@ A modo de seguimiento, publicare mis avances en el estudio de Ciencias de la com
 ## Introduccion a la programacion
 
 
-* [Python for everyone](https://www.coursera.org/specializations/python) 
-* [Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals)
+* [Python for everyone](https://www.coursera.org/specializations/python) **TERMINADO**
+* [Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals)**EN PROCESO**
 
 ## Core CS
 
