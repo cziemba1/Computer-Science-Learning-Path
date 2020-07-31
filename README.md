@@ -39,3 +39,7 @@ A modo de seguimiento, publicare mis avances en el estudio de Ciencias de la com
 ##  CS Avanzado
 
 Para esta etapa, la especializacion que elegire es [Programa especializado Ciencia de Datos](https://www.coursera.org/specializations/jhu-data-science).
+
+## Libros
+ * Gaston C. Hillar - Learning Object-Oriented Programming_ Explore and crack the OOP code in Python, JavaScript, and C # . **TERMINADO**
+ * B. M. Harwani - Learning Object-Oriented Programming in C_ 5.0 (2014, Cengage Learning PTR) **EN PROCESO**
